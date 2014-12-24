@@ -1,0 +1,11 @@
+/* line 1, ../custom/custom.scss */
+body {
+  background: #000000;
+}
+
+/* line 1, ../sass/staff_style.scss */
+body {
+  background: #000000;
+  color: #ffffff;
+  font-size: 50px;
+}

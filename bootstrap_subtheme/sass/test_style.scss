@@ -1,0 +1,6 @@
+@import "../assets/stylesheets/_bootstrap";
+body{
+  img{
+    @include img-responsive();
+  }
+}
